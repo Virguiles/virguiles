@@ -1,4 +1,4 @@
-# Hi there, I'm Virgile Popote 👋
+# Hi there, I'm Virgile 👋
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
